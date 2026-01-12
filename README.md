@@ -38,4 +38,4 @@ python "Discount Calculator.py"
 ⦁	Final Price: Rp 850,000.00
 
 # License
-This project is licensed under the MIT License - see the https://github.com/BEBYSHA/Discount-Calculator/blob/66299cb4b2239bc02c3a2568675b1b2ddac07294/LICENSE file for details.
+This project is licensed under the MIT License - see the LICENSE file for details.
