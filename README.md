@@ -35,3 +35,6 @@ python "Discount Calculator.py"
 ⦁	The amount of goods: 10
 ⦁	Discount (%): 15
 ⦁	Final Price: Rp 850,000.00
+
+# License
+This project is licensed under the MIT License - see the LICENSE file for details.
