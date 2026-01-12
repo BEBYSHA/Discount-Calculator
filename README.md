@@ -21,7 +21,7 @@ A simple GUI-based discount calculator built in Python and Tkinter that calculat
 
 # Usage
 Run the application:
-#python "Discount Calculator.py"#
+### python "Discount Calculator.py"
 
 # How to Use
 1.	Enter the original price in the "Original Price" field.
