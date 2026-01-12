@@ -21,7 +21,7 @@ A simple GUI-based discount calculator built in Python and Tkinter that calculat
 
 # Usage
 Run the application:
-
+python discount-calculator.py
 python "Discount Calculator.py"
 
 # How to Use
