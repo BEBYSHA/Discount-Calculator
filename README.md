@@ -39,4 +39,4 @@ python "Discount Calculator.py"
 ⦁	Final Price: Rp 850,000.00
 
 # License
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the MIT License – see the [LICENSE](LICENSE) file for details.
